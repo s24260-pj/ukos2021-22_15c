@@ -2,3 +2,6 @@
 Na ostatnich zajeciach nauczylem sie: 
 - struktury systemu linux 
 - informacji o plikach, czym sie zajmuja,jak działaja, co przechowuja.
+- jak poruszać się po konsoli.
+- jak zalogować się przez putty do serwera ssh a jak zrobić to przy pomocy cmd.
+- korzystać z narzedzia man ktore pomaga w uczeniu sie, szukania informacji o komendach. 
